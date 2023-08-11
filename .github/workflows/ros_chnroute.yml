@@ -26,5 +26,5 @@ jobs:
         git config --global user.name 'dante'
         git config --global user.email 'dante@duckduckfly.xyz'
         git add chnroute.rsc
-        git commit -m 'autoupdate chnroute.rsc'
+        git commit -m 'auto update chnroute.rsc'
         git push
