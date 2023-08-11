@@ -12,7 +12,7 @@ script for mikrotik routeros
   :set addrFile [find where name="chnroute.rsc"]
   :set fileSize [get $addrFile size]
   :if ($fileSize > 300000) do={
-    /import file=address-list.rsc
+    /import file=chnroute.rsc
     :log info "[network_chnroute] chnroute address list updated!"
   }
 }
