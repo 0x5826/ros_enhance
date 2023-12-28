@@ -150,6 +150,7 @@ add address=36.37.40.0/21 disabled=no list=chnroute
 add address=36.37.48.0/20 disabled=no list=chnroute
 add address=36.40.0.0/13 disabled=no list=chnroute
 add address=36.48.0.0/15 disabled=no list=chnroute
+add address=36.50.226.0/23 disabled=no list=chnroute
 add address=36.51.0.0/16 disabled=no list=chnroute
 add address=36.56.0.0/13 disabled=no list=chnroute
 add address=36.96.0.0/11 disabled=no list=chnroute
@@ -5929,6 +5930,7 @@ add address=123.99.128.0/17 disabled=no list=chnroute
 add address=123.100.0.0/19 disabled=no list=chnroute
 add address=123.101.0.0/16 disabled=no list=chnroute
 add address=123.103.0.0/17 disabled=no list=chnroute
+add address=123.108.88.0/23 disabled=no list=chnroute
 add address=123.108.128.0/20 disabled=no list=chnroute
 add address=123.108.208.0/20 disabled=no list=chnroute
 add address=123.112.0.0/12 disabled=no list=chnroute
