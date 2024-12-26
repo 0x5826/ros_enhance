@@ -6278,9 +6278,11 @@ add address=160.250.140.0/24 disabled=no list=chnroute
 add address=160.250.160.0/23 disabled=no list=chnroute
 add address=160.250.170.0/23 disabled=no list=chnroute
 add address=160.250.214.0/23 disabled=no list=chnroute
+add address=160.250.252.0/23 disabled=no list=chnroute
 add address=161.120.0.0/16 disabled=no list=chnroute
 add address=161.189.0.0/16 disabled=no list=chnroute
 add address=161.207.0.0/16 disabled=no list=chnroute
+add address=161.248.20.0/23 disabled=no list=chnroute
 add address=162.14.0.0/16 disabled=no list=chnroute
 add address=162.105.0.0/16 disabled=no list=chnroute
 add address=163.0.0.0/16 disabled=no list=chnroute
