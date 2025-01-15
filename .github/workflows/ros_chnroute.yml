@@ -18,13 +18,13 @@ jobs:
 
     - name: Run script
       run: |
-        chmod +x ros_chnroute.sh
-        bash ros_chnroute.sh
+        chmod +x ros_chnroute_v4.sh
+        bash ros_chnroute_v4.sh
 
     - name: Commit changes
       run: |
         git config --global user.name 'dante'
         git config --global user.email 'dante@duckduckfly.xyz'
         git add .
-        git commit -m 'auto update chnroute.rsc'
+        git commit -m 'auto update chnroute_v4.rsc'
         git push
